@@ -1,0 +1,16 @@
+react-router => npm i react-router
+react-router-dom => npm i react-router-dom
+
+bootstrap => npm i bootstrap
+
+Comandos Git:
+
+Verificar archivos con cambios o sin seguimiento: git status -s
+
+Instalar Sweetalert2 => npm i sweetalert2 sweetalert2-react-content
+
+Instalar Font-Awesome => npm i @fortawesome/fontawesome-svg-core @fortawesome/free-solid-svg-icons @fortawesome/react-fontawesome @fortawesome/free-brands-svg-icons @fortawesome/free-regular-svg-icons
+
+Instalar Toastify => npm i react-toastify
+
+Instalar todas las dependencias de un proyecto => npm i
